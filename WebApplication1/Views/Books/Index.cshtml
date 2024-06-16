@@ -7,11 +7,13 @@
     {
         <div class="col-sm-12 col-md-6 col-lg-4 mt-4">
             <h4>
-                <a @Html.ActionLink(comic.DisplayText, "Detail", "Books", new { area = "" })></a>
+                <a @Html.ActionLink(comic.DisplayText, "Detail", "Books", new { id = comic.Id })></a>
             </h4>
+            <a href="@Url.Action("Detail", new { id = comic.Id })">
             <img src="/Images/@comic.CoverImageFileName"
                  alt="@comic.DisplayText"
-                 class="img-responsive"/>
+                 class="img-responsive"/></a>
+            
         </div>
     }
 </div>
