@@ -31,6 +31,15 @@
 </div>
 
 <div class="container body-content">
+    @if (ViewBag.ShowBackBar != null && ViewBag.ShowBackBar)
+    {
+        <div class="backbar">
+            <div class="container mt-lg-5">
+                <a class="btn btn-default" href="@Url.Action("Index", "Books", new { area = "" })">Return to List</a>
+            </div>
+        </div>  
+    }
+    
     @RenderBody()
     <hr/>
     <footer>
