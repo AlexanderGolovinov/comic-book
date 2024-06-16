@@ -32,8 +32,8 @@
             <p>@Html.Raw(Model.DescriptionHtml)</p>
         </div>
         <div class="col-md-6">
-            <img src="~/Images/@Model.CoverImageFileName"
-                 alt="The Amazing Spider-Man #700" class="img-responsive"/>
+            <img src="/Images/@Model.CoverImageFileName"
+                 alt="@Model.DisplayText" class="img-responsive"/>
         </div>
     </div>
 }

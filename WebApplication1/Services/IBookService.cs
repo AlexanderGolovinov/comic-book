@@ -5,7 +5,7 @@ namespace WebApplication1.Services;
 public interface IBookService
 {
 
-    List<ComicBook> GetAllComicBooks();
+    List<ComicBook> FindAllComicBooks();
     
     ComicBook? GetComicBookById(long? id);
 

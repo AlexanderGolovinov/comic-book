@@ -12,7 +12,7 @@ public class BookService : IBookService
         _bookRepository = bookRepository;
     }
 
-    public List<ComicBook> GetAllComicBooks()
+    public List<ComicBook> FindAllComicBooks()
     {
         return _bookRepository.FindAllComicBooks();
     }

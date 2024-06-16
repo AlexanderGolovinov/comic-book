@@ -14,6 +14,12 @@ public class BooksController : Controller
         _bookService = bookService;
     }
 
+    public ActionResult Index()
+    {
+        var comics = _bookService.FindAllComicBooks();
+        return View(comics);
+    }
+
     public ActionResult Detail(long? id)
     {
         if (id != null)

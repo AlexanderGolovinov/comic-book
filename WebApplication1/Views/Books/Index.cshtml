@@ -1,0 +1,17 @@
+@model List<ComicBook>
+@{
+    ViewData["Title"] = "Comics Page";
+}
+<div class="row mt-2">
+    @foreach (var comic in Model)
+    {
+        <div class="col-sm-12 col-md-6 col-lg-4 mt-4">
+            <h4>
+                <a @Html.ActionLink(comic.DisplayText, "Detail", "Books", new { area = "" })></a>
+            </h4>
+            <img src="/Images/@comic.CoverImageFileName"
+                 alt="@comic.DisplayText"
+                 class="img-responsive"/>
+        </div>
+    }
+</div>
