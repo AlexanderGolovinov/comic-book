@@ -5,6 +5,66 @@
       "PackagePath": "staticwebassets/WebApplication1.bundle.scp.css"
     },
     {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Content/bootstrap.min.css",
+      "PackagePath": "staticwebassets/Content/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Content/site.css",
+      "PackagePath": "staticwebassets/Content/site.css"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/Fonts/glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/Fonts/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/Fonts/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/Fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Images/bone-50.jpg",
+      "PackagePath": "staticwebassets/Images/bone-50.jpg"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Images/the-amazing-spider-man-657.jpg",
+      "PackagePath": "staticwebassets/Images/the-amazing-spider-man-657.jpg"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Images/the-amazing-spider-man-700.jpg",
+      "PackagePath": "staticwebassets/Images/the-amazing-spider-man-700.jpg"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Scripts/bootstrap.min.js",
+      "PackagePath": "staticwebassets/Scripts/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Scripts/jquery-1.10.2.intellisense.js",
+      "PackagePath": "staticwebassets/Scripts/jquery-1.10.2.intellisense.js"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Scripts/jquery-1.10.2.js",
+      "PackagePath": "staticwebassets/Scripts/jquery-1.10.2.js"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Scripts/jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets/Scripts/jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Scripts/jquery-1.10.2.min.map",
+      "PackagePath": "staticwebassets/Scripts/jquery-1.10.2.min.map"
+    },
+    {
+      "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/Scripts/modernizr-2.6.2.js",
+      "PackagePath": "staticwebassets/Scripts/modernizr-2.6.2.js"
+    },
+    {
       "Id": "/Users/aleksandrg/RiderProjects/WebApplication1/WebApplication1/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
